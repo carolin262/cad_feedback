@@ -2,30 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ab592aa-2807-4538-a8a5-71602619d4f0" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PDFcreater/Plots/Benoetigte Stundenzahl vom gesamten CAD-Kurs pro Woche.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PDFcreater/Plots/Der Lehrinhalt war ausreichend um die HA zu bearbeiten.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PDFcreater/Plots/Der Schwierigkeitsgrad war hoch.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PDFcreater/Plots/Die Hausaufgabe sollte vom Umfang her reduziert werden.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PDFcreater/Plots/Die Uebungen sind gut strukturiert.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PDFcreater/Plots/Die Uebungsbeispiele sind gut gewaehlt.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PDFcreater/Plots/Ich habe die Uebungsaufgaben alle gemacht.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PDFcreater/Plots/Ich habe mich schon fruehzeitig mit dem Programm zu Hause beschaeftigt.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PDFcreater/Plots/Ich habe viel Zeit zur Bearbeitung der Hausaufgabe benoetigt.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PDFcreater/Plots/Ich haette gerne mehr Uebungsaufgaben gehabt.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PDFcreater/Plots/Ich war immer gut auf das Tutorium vorbereitet..png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PDFcreater/Plots/Semester der Studierenden.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PDFcreater/Plots/Tutor foerdert aktive Teilnahme der Studenten.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PDFcreater/Plots/Tutor ist immer gut auf das Tutorium vorbereitet.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PDFcreater/Plots/Tutor kann den Lehrinhalt verstaendlich darlegen.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PDFcreater/Plots/Die Formulierungen in der Hausaufgabe waren eindeutig.png" afterPath="$PROJECT_DIR$/PDFcreater/Plots/Die Formulierungen in der Hausaufgabe waren eindeutig.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PDFcreater/Plots/Geschlecht_der_Studis.png" afterPath="$PROJECT_DIR$/PDFcreater/Plots/Geschlecht_der_Studis.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PDFcreater/Plots/Studiengang_der_Studis.png" afterPath="$PROJECT_DIR$/PDFcreater/Plots/Studiengang_der_Studis.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PDFcreater/Plots/Tutor_der_Studis.png" afterPath="$PROJECT_DIR$/PDFcreater/Plots/Tutor_der_Studis.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Se_Feedback.aux" afterPath="$PROJECT_DIR$/Se_Feedback.aux" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PDFcreater/Pictures/choice-img.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PDFcreater/Plots/Benoetigte_Stundenzahl_vom_gesamten_CAD_Kurs_pro_Woche.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PDFcreater/Plots/Der_Lehrinhalt_war_ausreichend_um_die_HA_zu_bearbeiten.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PDFcreater/Plots/Der_Schwierigkeitsgrad_war_hoch.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PDFcreater/Plots/Die Formulierungen in der Hausaufgabe waren eindeutig.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PDFcreater/Plots/Die_Hausaufgabe_sollte_vom_Umfang_her_reduziert_werden.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PDFcreater/Plots/Die_Uebungen_sind_gut_strukturiert.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PDFcreater/Plots/Die_Uebungsbeispiele_sind_gut_gewaehlt.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PDFcreater/Plots/Geschlecht_der_Studis.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PDFcreater/Plots/Ich_habe_die_Uebungsaufgaben_alle_gemacht.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PDFcreater/Plots/Ich_habe_mich_schon_fruehzeitig_mit_dem_Programm_zu_Hause_beschaeftigt.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PDFcreater/Plots/Ich_habe_viel_Zeit_zur_Bearbeitung_der_Hausaufgabe_benoetigt.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PDFcreater/Plots/Ich_haette_gerne_mehr_Uebungsaufgaben_gehabt.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PDFcreater/Plots/Ich_war_immer_gut_auf_das_Tutorium_vorbereitet.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PDFcreater/Plots/Semester_der_Studierenden.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PDFcreater/Plots/Studiengang_der_Studis.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PDFcreater/Plots/Tutor_der_Studis.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PDFcreater/Plots/Tutor_foerdert_aktive_Teilnahme_der_Studenten.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PDFcreater/Plots/Tutor_ist_immer_gut_auf_das_Tutorium_vorbereitet.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PDFcreater/Plots/Tutor_kann_den_Lehrinhalt_verstaendlich_darlegen.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Se_Feedback.pdf" afterPath="$PROJECT_DIR$/Se_Feedback.pdf" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Se_Feedback.aux" afterPath="$PROJECT_DIR$/Se_Feedback.aux" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Se_Feedback.nav" afterPath="$PROJECT_DIR$/Se_Feedback.nav" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Se_Feedback.tex" afterPath="$PROJECT_DIR$/Se_Feedback.tex" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Se_Feedback.vrb" afterPath="$PROJECT_DIR$/Se_Feedback.vrb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main.py" afterPath="$PROJECT_DIR$/main.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plots_to_pdf.py" afterPath="$PROJECT_DIR$/plots_to_pdf.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -39,7 +43,7 @@
       <file leaf-file-name="json_to_plots.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/json_to_plots.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
+            <state relative-caret-position="0">
               <caret line="10" column="8" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
               <folding />
             </state>
@@ -49,8 +53,8 @@
       <file leaf-file-name="main.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6237">
-              <caret line="189" column="21" lean-forward="false" selection-start-line="189" selection-start-column="21" selection-end-line="189" selection-end-column="21" />
+            <state relative-caret-position="264">
+              <caret line="179" column="43" lean-forward="true" selection-start-line="179" selection-start-column="43" selection-end-line="179" selection-end-column="43" />
               <folding>
                 <element signature="e#24#41#0" expanded="true" />
               </folding>
@@ -61,8 +65,8 @@
       <file leaf-file-name="plots_to_pdf.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/plots_to_pdf.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1980">
-              <caret line="60" column="42" lean-forward="false" selection-start-line="60" selection-start-column="42" selection-end-line="60" selection-end-column="42" />
+            <state relative-caret-position="2211">
+              <caret line="67" column="50" lean-forward="false" selection-start-line="67" selection-start-column="50" selection-end-line="67" selection-end-column="50" />
               <folding />
             </state>
           </provider>
@@ -201,17 +205,16 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1046" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14648649" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15189189" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24256837" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24256837" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35909632" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31272295" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -228,6 +231,13 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>179</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+      </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
           <properties notifyOnTerminate="true" exception="BaseException">
@@ -235,11 +245,63 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="18" />
+      <option name="time" value="35" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/json_to_plots.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5544">
+          <caret line="168" column="0" lean-forward="false" selection-start-line="168" selection-start-column="0" selection-end-line="168" selection-end-column="0" />
+          <folding>
+            <element signature="e#24#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plots_to_pdf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2211">
+          <caret line="67" column="50" lean-forward="false" selection-start-line="67" selection-start-column="50" selection-end-line="67" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/json_to_plots.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="10" column="8" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plots_to_pdf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2211">
+          <caret line="67" column="50" lean-forward="false" selection-start-line="67" selection-start-column="50" selection-end-line="67" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5577">
+          <caret line="169" column="16" lean-forward="false" selection-start-line="169" selection-start-column="16" selection-end-line="169" selection-end-column="42" />
+          <folding>
+            <element signature="e#24#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/json_to_plots.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -289,12 +351,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="146">
           <caret line="1025" column="0" lean-forward="false" selection-start-line="1025" selection-start-column="0" selection-end-line="1025" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/json_to_plots.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
+        <state relative-caret-position="0">
           <caret line="10" column="8" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
           <folding />
         </state>
@@ -307,21 +370,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main.py">
+    <entry file="file://$PROJECT_DIR$/plots_to_pdf.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6237">
-          <caret line="189" column="21" lean-forward="false" selection-start-line="189" selection-start-column="21" selection-end-line="189" selection-end-column="21" />
-          <folding>
-            <element signature="e#24#41#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="2211">
+          <caret line="67" column="50" lean-forward="false" selection-start-line="67" selection-start-column="50" selection-end-line="67" selection-end-column="50" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/plots_to_pdf.py">
+    <entry file="file://C:/ProgramData/Anaconda2/Lib/site-packages/matplotlib/axes/_axes.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1980">
-          <caret line="60" column="42" lean-forward="false" selection-start-line="60" selection-start-column="42" selection-end-line="60" selection-end-column="42" />
+        <state relative-caret-position="201">
+          <caret line="2622" column="0" lean-forward="false" selection-start-line="2622" selection-start-column="0" selection-end-line="2622" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="179" column="43" lean-forward="true" selection-start-line="179" selection-start-column="43" selection-end-line="179" selection-end-column="43" />
+          <folding>
+            <element signature="e#24#41#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

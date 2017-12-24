@@ -65,7 +65,7 @@ class VisualPDF:
         for filename in os.listdir('./PDFcreater/Plots'):
             name = filename.split('.')
             frame = frame + '\\begin{frame}[fragile]{'
-            frame = frame + name[0]
+            frame = frame + name[0].replace('+',' ')
             frame = frame + '} \n \
 \\begin{figure}\n \
 \includegraphics[width= 0.9\linewidth]{./PDFcreater/Plots/'
