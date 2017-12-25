@@ -9,7 +9,7 @@ class Json_parser:
         return csv_dataframe
 
     def nx_file(self):
-        csv_dataframe = pd.read_csv('se_feedback.csv')
+        csv_dataframe = pd.read_csv('nx_feedback.csv')
         print("Done reading the nx-csv file")
         return csv_dataframe
 
