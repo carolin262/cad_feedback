@@ -2,42 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ab592aa-2807-4538-a8a5-71602619d4f0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nx_feedback.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/se_feedback.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PDFcreater/Plots/Benoetigte+Stundenzahl+vom+gesamten+CAD+Kurs+pro+Woche.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PDFcreater/Plots/Der+Lehrinhalt+war+ausreichend+um+die+HA+zu+bearbeiten.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PDFcreater/Plots/Der+Schwierigkeitsgrad+war+hoch.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PDFcreater/Plots/Die+Formulierungen+in+der+Hausaufgabe+waren+eindeutig.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PDFcreater/Plots/Die+Hausaufgabe+sollte+vom+Umfang+her+reduziert+werden.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PDFcreater/Plots/Die+Uebungen+sind+gut+strukturiert.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PDFcreater/Plots/Die+Uebungsbeispiele+sind+gut+gewaehlt.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PDFcreater/Plots/Geschlecht+der+Studis.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PDFcreater/Plots/Ich+habe+die+Uebungsaufgaben+alle+gemacht.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PDFcreater/Plots/Ich+habe+mich+schon+fruehzeitig+mit+dem+Programm+zu+Hause+beschaeftigt.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PDFcreater/Plots/Ich+habe+viel+Zeit+zur+Bearbeitung+der+Hausaufgabe+benoetigt.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PDFcreater/Plots/Ich+haette+gerne+mehr+Uebungsaufgaben+gehabt.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PDFcreater/Plots/Ich+war+immer+gut+auf+das+Tutorium+vorbereitet.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PDFcreater/Plots/Semester+der+Studierenden.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PDFcreater/Plots/Studiengang+der+Studis.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PDFcreater/Plots/Tutor+der+Studis.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PDFcreater/Plots/Tutor+foerdert+aktive+Teilnahme+der+Studenten.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PDFcreater/Plots/Tutor+ist+immer+gut+auf+das+Tutorium+vorbereitet.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PDFcreater/Plots/Tutor+kann+den+Lehrinhalt+verstaendlich+darlegen.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Se_Feedback.aux" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Se_Feedback.nav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Se_Feedback.out" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Se_Feedback.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Se_Feedback.snm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Se_Feedback.tex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Se_Feedback.toc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Se_Feedback.vrb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/se_feeedback.pdf" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PDFcreater/Pictures/background.png" afterPath="$PROJECT_DIR$/PDFcreater/Pictures/background.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SolidEdge_Feedback.pdf" afterPath="$PROJECT_DIR$/SolidEdge_Feedback.pdf" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/json_to_plots.py" afterPath="$PROJECT_DIR$/json_to_plots.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main.py" afterPath="$PROJECT_DIR$/main.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nx_feedback.csv" afterPath="$PROJECT_DIR$/nx_feedback.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plots_to_pdf.py" afterPath="$PROJECT_DIR$/plots_to_pdf.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SolidEdge_Feedback.aux" afterPath="$PROJECT_DIR$/SolidEdge_Feedback.aux" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SolidEdge_Feedback.vrb" afterPath="$PROJECT_DIR$/SolidEdge_Feedback.vrb" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -73,7 +41,7 @@
       <file leaf-file-name="se_feedback.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/se_feedback.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
+            <state relative-caret-position="5214">
               <caret line="162" column="65" lean-forward="false" selection-start-line="162" selection-start-column="65" selection-end-line="162" selection-end-column="65" />
               <folding>
                 <element signature="e#24#41#0" expanded="true" />
@@ -85,7 +53,7 @@
       <file leaf-file-name="nx_feedback.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/nx_feedback.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5874">
+            <state relative-caret-position="5742">
               <caret line="178" column="24" lean-forward="false" selection-start-line="178" selection-start-column="24" selection-end-line="178" selection-end-column="24" />
               <folding>
                 <element signature="e#24#41#0" expanded="true" />
@@ -97,7 +65,7 @@
       <file leaf-file-name="plots_to_pdf.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/plots_to_pdf.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-165">
+            <state relative-caret-position="1386">
               <caret line="43" column="38" lean-forward="false" selection-start-line="43" selection-start-column="38" selection-end-line="43" selection-end-column="38" />
               <folding>
                 <element signature="e#49#81#0" expanded="true" />
@@ -253,14 +221,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1046" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1545946" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936978" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24256837" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24256837" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.08204518" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -271,6 +239,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936978" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -311,6 +280,54 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/json_to_plots.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="12" column="42" lean-forward="false" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/se_feedback.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5346">
+          <caret line="162" column="65" lean-forward="false" selection-start-line="162" selection-start-column="65" selection-end-line="162" selection-end-column="65" />
+          <folding>
+            <element signature="e#24#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nx_feedback.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5742">
+          <caret line="178" column="24" lean-forward="false" selection-start-line="178" selection-start-column="24" selection-end-line="178" selection-end-column="24" />
+          <folding>
+            <element signature="e#24#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plots_to_pdf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1386">
+          <caret line="43" column="38" lean-forward="false" selection-start-line="43" selection-start-column="38" selection-end-line="43" selection-end-column="38" />
+          <folding>
+            <element signature="e#49#81#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="43" lean-forward="false" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/json_to_plots.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -446,7 +463,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="146">
           <caret line="1025" column="0" lean-forward="false" selection-start-line="1025" selection-start-column="0" selection-end-line="1025" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -461,13 +477,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="201">
           <caret line="2622" column="0" lean-forward="false" selection-start-line="2622" selection-start-column="0" selection-end-line="2622" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/nx_feedback.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5874">
+        <state relative-caret-position="5742">
           <caret line="178" column="24" lean-forward="false" selection-start-line="178" selection-start-column="24" selection-end-line="178" selection-end-column="24" />
           <folding>
             <element signature="e#24#41#0" expanded="true" />
@@ -485,7 +500,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/plots_to_pdf.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-165">
+        <state relative-caret-position="1386">
           <caret line="43" column="38" lean-forward="false" selection-start-line="43" selection-start-column="38" selection-end-line="43" selection-end-column="38" />
           <folding>
             <element signature="e#49#81#0" expanded="true" />
@@ -495,7 +510,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/se_feedback.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
+        <state relative-caret-position="5214">
           <caret line="162" column="65" lean-forward="false" selection-start-line="162" selection-start-column="65" selection-end-line="162" selection-end-column="65" />
           <folding>
             <element signature="e#24#41#0" expanded="true" />
